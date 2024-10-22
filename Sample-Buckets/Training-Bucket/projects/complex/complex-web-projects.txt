@@ -1,3 +1,0 @@
-
-- Student Registration System
-    - Developed using JSP/Spring Boot, Hibernate
